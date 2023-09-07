@@ -12,7 +12,7 @@
         </div>
       </div>
       <div>
-        <h1 class="my-5 text-5xl  text-[#495057] max-w-lg font-semibold capitalize">
+        <h1 class="my-5 text-3xl  text-[#495057] max-w-lg font-semibold capitalize">
           Ensure that <br />
           everyone is <br />well-informed.
         </h1>
@@ -47,7 +47,7 @@
     </div>
   </div>
   <div
-    class="py-32 mx-auto items-center justify-start md:justify-center block md:flex md:flex-row-reverse gap-28"
+    class="py-32 px-5 mx-auto items-center justify-start md:justify-center block md:flex md:flex-row-reverse gap-28"
   >
     <div>
       <img src="../assets/image/image2.png" alt="" />
@@ -61,7 +61,7 @@
         </div>
       </div>
       <div>
-        <h1 class="my-5 text-5xl  text-[#495057] max-w-lg font-semibold text-right capitalize">
+        <h1 class="my-5 text-3xl  text-[#495057] max-w-lg font-semibold text-right capitalize">
           Efficient <br />receipt <br />
           issuance, <br />
           hassle-free.
