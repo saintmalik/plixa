@@ -1,0 +1,35 @@
+{
+  "name": "plixa",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:unit": "vitest",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "format": "prettier --write src/"
+  },
+  "dependencies": {
+    "flowbite": "^1.8.1",
+    "pinia": "^2.1.6",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.3.2",
+    "@vitejs/plugin-vue": "^4.3.1",
+    "@vitejs/plugin-vue-jsx": "^3.0.2",
+    "@vue/eslint-config-prettier": "^8.0.0",
+    "@vue/test-utils": "^2.4.1",
+    "autoprefixer": "^10.4.15",
+    "eslint": "^8.46.0",
+    "eslint-plugin-vue": "^9.16.1",
+    "jsdom": "^22.1.0",
+    "postcss": "^8.4.29",
+    "prettier": "^3.0.0",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.9",
+    "vitest": "^0.34.2"
+  }
+}

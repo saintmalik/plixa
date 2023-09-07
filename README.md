@@ -1,0 +1,2 @@
+# plix
+The name "Plix" is a combination of the words "easy pay" and "clear." The "pl" in "Plix" is derived from "pay," while the "ix" is derived from "clear." The name suggests a simple and straightforward payment process that is free of any obstacles or confusion. It aligns with the business description of eliminating payment hurdles and receipt outage, making it an appropriate and memorable name for a business in the payment processing industry.
