@@ -1,13 +1,15 @@
 <template>
   <header>
-    <nav class="border-gray-200 px-4 lg:px-6 py-2.5 bg-[#001D3D]">
+    <nav class="border-gray-200 px-4 lg:px-6 py-2.5 bg-[#000000]">
       <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
         <a href="https://flowbite.com" class="flex items-center">
           <img src="../assets/image/test-logo.jpg" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
           <span class="self-center text-xl font-semibold whitespace-nowrap text-white">Plixa</span>
         </a>
         <div class="flex items-center lg:order-2">
-             <button class="hidden md:flex px-8 py-2 m-2 text-base font-semibold rounded bg-[#306BAC] text-white">
+          <button
+            class="hidden md:flex px-8 py-2 m-2 text-base font-semibold rounded-full bg-[#306BAC] text-white"
+          >
             Get started
           </button>
           <button
