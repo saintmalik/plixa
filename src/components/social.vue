@@ -1,5 +1,5 @@
 <template>
-  <div class="px-5 py-5 bg-black">
+  <div class="px-5 py-5 bg-[#131313]">
     <div class="max-w-screen-md block mx-auto justify-center md:flex "> 
       <div class="m-5  ">
         <div class="bg-[#171E25] rounded-3xl p-5">
@@ -23,7 +23,7 @@
         <div class="bg-[#171E25] rounded-3xl p-5">
           <div>
             <h1 class="pt-10 text-white text-6xl font-medium">02.</h1>
-            <div class="py-5">
+            <div class="py-5 mx-auto flex justify-center">
               <img src="../assets/image/starfish.png" alt="" />
             </div>
             <div class="text-center text-white">
