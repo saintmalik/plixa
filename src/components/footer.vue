@@ -4,7 +4,7 @@
       class="px-5 text-white flex flex-col gap-16 md:grid md:grid-cols-5 md:justify-between py-10"
     >
       <section>
-        <h1 class=" text-3xl text-[#306bac] font-bold capitalize">plixa.</h1>
+        <img src="../assets/image/plixalogo-1.png" alt="">
       </section>
       <section>
         <div>

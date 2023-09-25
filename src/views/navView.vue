@@ -3,8 +3,8 @@
     <nav class="border-gray-200 px-4 lg:px-6 py-2.5 bg-[#000000]">
       <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
         <a href="https://flowbite.com" class="flex items-center">
-          <img src="../assets/image/test-logo.jpg" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
-          <span class="self-center text-xl font-semibold whitespace-nowrap text-white">Plixa</span>
+          <img src="../assets/image/plixalogo-1.png" class="mr-3 h-20" alt="Flowbite Logo" />
+          <!-- <span class="self-center text-xl font-semibold whitespace-nowrap text-white">Plixa</span> -->
         </a>
         <div class="flex items-center lg:order-2">
           <button
