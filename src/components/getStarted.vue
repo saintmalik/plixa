@@ -8,12 +8,12 @@
           quis eligendi rem quidem sapiente tempore!
         </p>
         <div class="flex gap-5 mt-5 justify-center mx-auto">
-          <router-link to="">
+          <router-link to="/organizationDashboard">
             <button class="bg-[#306BAC] capitalize font-bold px-5 py-3 text-white rounded-2xl">
               join as a marchant
             </button>
           </router-link>
-          <router-link to="">
+          <router-link to="/payerDashboard">
             <button class="bg-[#306BAC] capitalize font-bold px-5 py-3 text-white rounded-2xl">
               make a payment
             </button>
