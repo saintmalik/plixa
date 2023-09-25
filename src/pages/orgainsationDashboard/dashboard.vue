@@ -1,5 +1,5 @@
 <template>
-  <div>this is the payment dashboard</div>
+  <div>this is the orgainization dashboard dashboard</div>
 </template>
 
 <script>
