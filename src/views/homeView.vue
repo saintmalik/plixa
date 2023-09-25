@@ -1,5 +1,8 @@
 <template>
-  <div>
+<div>
+  <navBar/>
+</div>
+<div>
     <hero />
     <sponsor />
     <feature />
@@ -9,6 +12,7 @@
 </template>
 
 <script setup>
+import navBar from "../views/navView.vue"
 import hero from '../components/hero.vue'
 import sponsor from '../components/sponsor.vue'
 import feature from '../components/feature.vue'

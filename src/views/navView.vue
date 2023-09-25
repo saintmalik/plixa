@@ -7,11 +7,13 @@
           <!-- <span class="self-center text-xl font-semibold whitespace-nowrap text-white">Plixa</span> -->
         </a>
         <div class="flex items-center lg:order-2">
-          <button
-            class="hidden md:flex px-8 py-2 m-2 text-base font-semibold rounded-full bg-[#306BAC] text-white"
+          <router-link to="/getStarted">
+            <button
+              class="hidden md:flex px-8 py-2 m-2 text-base font-semibold rounded-full bg-[#306BAC] text-white"
+            >
+              Get started
+            </button></router-link
           >
-            Get started
-          </button>
           <button
             data-collapse-toggle="mobile-menu-2"
             type="button"
@@ -84,8 +86,17 @@
               <RouterLink to="/Changelog">
                 <a
                   href="#"
-                  class="block py-2 pr-4 pl-3 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 text-gray-400 lg:hover:text-white hover:text-white"
+                  class="block py-2 pr-4 pl-3 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 text-gray-400 lg:hover:text-white hover:text-white"
                   >ChangeLog</a
+                ></RouterLink
+              >
+            </li>
+            <li>
+              <RouterLink to="/getStarted">
+                <a
+                  href="#"
+                  class="block py-2 pr-4 pl-3 bg-[#306BAC] rounded-xl hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 text-white md:hidden lg:hover:text-white hover:text-white"
+                  >Get Started</a
                 ></RouterLink
               >
             </li>

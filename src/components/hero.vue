@@ -11,9 +11,13 @@
           payment process that is free of any obstacles.
         </p>
         <div class="flex flex-wrap justify-center">
-          <button class="px-20 py-3 m-2 text-lg font-semibold rounded-full bg-[#306BAC] text-white">
-            Get started
-          </button>
+          <router-link to="/getStarted">
+            <button
+              class="px-20 py-3 m-2 text-lg font-semibold rounded-full bg-[#306BAC] text-white"
+            >
+              Get started
+            </button></router-link
+          >
         </div>
       </div>
     </section>
