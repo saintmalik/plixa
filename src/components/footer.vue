@@ -1,7 +1,7 @@
 <template>
   <div class="bg-[#000000]">
     <div
-      class="px-3 text-white flex md:flex-col gap-12 md:grid md:grid-cols-5 md:justify-between py-10"
+      class="px-3 text-white flex flex-col gap-12 md:grid md:grid-cols-5 md:justify-between py-10"
     >
       <section>
         <img class="w-48" src="../assets/image/plixalogo-1.png" alt="">
