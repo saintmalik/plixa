@@ -1,7 +1,7 @@
 <template>
   <div class="bg-[#000000]">
     <div
-      class="px-5 text-white flex flex-col gap-16 md:grid md:grid-cols-5 md:justify-between py-10"
+      class="px-3 text-white flex md:flex-col gap-12 md:grid md:grid-cols-5 md:justify-between py-10"
     >
       <section>
         <img class="w-48" src="../assets/image/plixalogo-1.png" alt="">
@@ -10,7 +10,7 @@
         <div>
           <h1 class="text-xl pb-5">Company</h1>
           <nav>
-            <ul class="text-gray-500 gap-5 flex flex-col">
+            <ul class="text-gray-500 gap-4 flex flex-col">
               <li>About us</li>
               <li>Blog</li>
             </ul>
@@ -21,7 +21,7 @@
         <div>
           <h1 class="text-xl pb-5">Resources</h1>
           <nav>
-            <ul class="text-gray-500 gap-5 flex flex-col">
+            <ul class="text-gray-500 gap-4 flex flex-col">
               <li>Docs</li>
               <li>FAQs</li>
             </ul>
@@ -31,7 +31,7 @@
       <section>
         <h1 class="text-xl pb-5">Legal</h1>
         <nav>
-          <ul class="text-gray-500 gap-5 flex flex-col">
+          <ul class="text-gray-500 gap-4 flex flex-col text-sm">
             <li>Terms of service</li>
             <li>Privacy</li>
             <li>Cookie policy</li>
@@ -42,7 +42,7 @@
       <section>
         <h1 class="text-xl pb-5">Support</h1>
         <nav>
-          <ul class="text-gray-500 gap-5 flex flex-col">
+          <ul class="text-gray-500 gap-4 flex flex-col">
             <li>support@plix.com</li>
           </ul>
           <nav>
