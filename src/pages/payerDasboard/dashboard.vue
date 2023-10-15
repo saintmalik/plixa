@@ -1,8 +1,8 @@
 <template>
-  <div class="md:flex hidden md:text-5xl md:justify-center md:h-screen md:text-center">
+  <!-- <div class="md:flex hidden md:text-5xl md:justify-center md:h-screen md:text-center">
     This page cannot be view on desktop. it supports mobile view only...
-  </div>
-  <div class="md:hidden justify-center flex items-center text-center mx-auto">
+  </div> -->
+  <div class=" justify-center flex items-center text-center mx-auto">
     <div class="mt-10">
       <h1 class="text-gray-500">Welcome to the dues payment portal</h1>
       <div class="mx-auto flex justify-center ">
