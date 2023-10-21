@@ -10,6 +10,8 @@ import FullPaymentTrans from '../components/payments/FullPaymentTrans.vue'
 import PartPaymentTrans from '../components/payments/PartPaymentTrans.vue'
 import PaymentSucOne from '../components/payments/PaymentSucOne.vue'
 import PaymentSucTwo from '../components/payments/PaymentSucTwo.vue'
+import Faculty from '../components/payments/Faculty.vue'
+import Department from '../components/payments/Department.vue'
 
 
 const router = createRouter({
@@ -69,6 +71,16 @@ const router = createRouter({
       path: '/PaymentSucTwo',
       name: 'PaymentSucTwo',
       component: PaymentSucTwo
+    },
+    {
+      path: '/Faculty',
+      name: 'Faculty',
+      component: Faculty
+    },
+    {
+      path: '/Department',
+      name: 'Department',
+      component: Department
     },
     // {
     // path: '/about',

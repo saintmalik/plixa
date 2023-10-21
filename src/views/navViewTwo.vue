@@ -7,7 +7,6 @@
             <!-- <span class="self-center text-xl font-semibold whitespace-nowrap text-white">Plixa</span> -->
           </a>
           <div class="flex items-center lg:order-2">
-            
             <button
               data-collapse-toggle="mobile-menu-2"
               type="button"
