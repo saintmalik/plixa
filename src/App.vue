@@ -12,7 +12,8 @@ onMounted(() => {
 </script>
 
 <template>
-  <header>
+  <div>
+    <header>
     <!-- <h1 class="bg-red-600">
       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit quae soluta nam doloribus
       obcaecati similique at aliquam possimus vero dolorem.
@@ -23,7 +24,9 @@ onMounted(() => {
     </div> -->
   </header>
 
-  <RouterView />
+  <RouterView/>
+  </div>
+ 
 </template>
 
 <style scoped></style>
